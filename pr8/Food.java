@@ -1,3 +1,5 @@
+package pr8;
+
 public class Food {
     private String name;
     private FoodType type;

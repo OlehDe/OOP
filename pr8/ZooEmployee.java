@@ -1,3 +1,5 @@
+package pr8;
+
 public abstract class ZooEmployee {
     protected int id;
     protected String name;

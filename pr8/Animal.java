@@ -1,3 +1,5 @@
+package pr8;
+
 public abstract class Animal {
     protected String name;
     protected AnimalType species;

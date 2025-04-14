@@ -1,3 +1,5 @@
+package pr8;
+
 public class Trainer extends ZooEmployee {
 
 

@@ -1,3 +1,5 @@
+package pr8;
+
 public class Lion extends Animal {
 
     public Lion(String name, int age, double weight, String location) {
